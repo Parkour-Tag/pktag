@@ -6,5 +6,5 @@ Here on the Github Repo you can find code that the development team choose to ma
 
 # Contact us
 Have a question?
-Join our forums and create a thread!
+Open a support ticket on our forums!
 https://pktag.tk
